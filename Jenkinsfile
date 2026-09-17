@@ -46,11 +46,11 @@ pipeline {
          * EC2 PRIVATE IP ADDRESSES
          */
 
-        DEV_HOST  = '16.192.126.10'
+        DEV_HOST  = '16.16.79.102'
 
-        QA_HOST   = '16.16.126.99'
+        QA_HOST   = '16.192.192.0'
 
-        PROD_HOST = '13.48.204.116'
+        PROD_HOST = '13.63.63.238'
 
 
         /*
